@@ -108,7 +108,7 @@ import figma from "@/assets/img/Figma.svg";
 }
 @media (max-width: 1024px) {
   .promo__dash1 {
-    bottom: -180px;
+    bottom: -220px;
     right: auto;
   }
   .sidebar {
