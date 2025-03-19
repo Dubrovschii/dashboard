@@ -121,7 +121,7 @@ import figma from "@/assets/img/Figma.svg";
     line-height: 30px;
   }
   .promo__dash1 {
-    bottom: -100px;
+    bottom: -130px;
     right: auto;
   }
   .sidebar__logo {
