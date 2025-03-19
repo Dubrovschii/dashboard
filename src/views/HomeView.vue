@@ -106,7 +106,7 @@ import figma from "@/assets/img/Figma.svg";
     display: none;
   }
 }
-@media (max-width: 1024px) {
+@media (max-width: 1240px) {
   .promo__dash1 {
     bottom: -220px;
     right: auto;
