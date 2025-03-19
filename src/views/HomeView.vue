@@ -86,11 +86,11 @@ import figma from "@/assets/img/Figma.svg";
 
 @media (max-width: 1440px) {
   .promo__dash1 {
-    bottom: -220px;
+    bottom: -320px;
   }
   .promo__dash2 {
     left: 15px;
-    bottom: -120px;
+    bottom: -370px;
   }
 }
 @media (max-width: 1300px) {
